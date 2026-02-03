@@ -15,7 +15,7 @@ The purpose of this activity is to practice collaboration with Git and GitHub.  
 
 3. Decide on ONE person to fork this repo. You are the owner. From now on, you will be referred to as the **owner**. Go ahead and fork this repo.
 
-4. **Owner**: Settings (repo gear icon) > Left sidebar: Manage Access > Invite a collaborator > type your partner's username and then add them. From now on, they will be referred to as the **collaborator**.
+4. **Owner**: Settings (repo gear icon) > Left sidebar: Access > Add a collaborator > type your partner's username and then add them. From now on, they will be referred to as the **collaborator**.
 
 5. **Collaborator**: check your email. You should receive an email that contains a link to this remote repo and a message saying "You can now push to this repository." Open the invitation and _Accept_ it. (you will NOT fork anything)
 
